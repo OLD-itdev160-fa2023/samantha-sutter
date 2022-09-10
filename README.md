@@ -1,3 +1,0 @@
-# samantha-sutter
-
-small change.
